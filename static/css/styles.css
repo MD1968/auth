@@ -1,3 +1,15 @@
 form {
     width: 50%;
+    margin-left: 300px;
 }
+
+H1 {
+     text-transform: uppercase;
+     text-align: center;
+
+}
+
+p {
+     text-align: center;
+}
+
